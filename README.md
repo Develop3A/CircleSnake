@@ -1,2 +1,0 @@
-# CircleSnake
-CircleSnake's project
